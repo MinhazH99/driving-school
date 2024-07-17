@@ -1,4 +1,5 @@
-import Home from './pages/Home'
+import Hero from './components/Hero'
+
 
 
 function App() {
@@ -6,7 +7,10 @@ function App() {
 
   return (
     <>
-      <Home/>
+  
+      <Hero/>
+   
+
     </>
   )
 }
